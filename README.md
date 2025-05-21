@@ -1,2 +1,2 @@
 # demo-sigma
-none
+none.
